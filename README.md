@@ -1,5 +1,5 @@
 # rotary_dialer
-Use old telephone rotary dial as a USB numeric keypad; includes 3-D printer files. [video at][https://www.youtube.com/watch?v=j2RmRgkIrfg]
+Use old telephone rotary dial as a USB numeric keypad; includes 3-D printer files. [video at YouTube](https://www.youtube.com/watch?v=j2RmRgkIrfg)
 
 Use an old AT&T Trimline rotary dialer as a numeric keypad for your computer. Disassemble the phone handset and extract the dialer. The 3-D files include a replacement for the center plug -- so you can change the colour.
 
